@@ -33,7 +33,7 @@ McGill University, Montreal, Canada
 ## 💼 Projects & Experience
 
 ### Full Stack Software Engineer Intern | Shanghai Jiuqianji Technology Co.,Ltd.
-*Jan. 2025-Jul.\ 2025*\
+*Jan. 2025-Jul. 2025*\
 **Technologies:** C#, .Net, .Net MAUI, Git
 
 - Developed cross-platform mobile applications using .NET MAUI framework
