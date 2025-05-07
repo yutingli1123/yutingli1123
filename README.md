@@ -51,7 +51,7 @@ McGill University, Montreal, Canada
 - Optimized database access layer using MyBatis to improve query efficiency
 - Participated in frontend development using Vue3, implementing data visualization features
 
-### Hotel Management System | McGill University ECSE-321 Course Project
+### [Hotel Management System](https://github.com/yutingli1123/HotelManagementSystem) | McGill University ECSE-321 Course Project
 *Sept. 2023–Dec. 2023*\
 **Technologies:** Spring Boot, Vue3, Hibernate, PostgreSQL, Git, Gradle
 
