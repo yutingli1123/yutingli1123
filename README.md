@@ -30,11 +30,12 @@ Software Engineering student at McGill University with full-stack development ex
 McGill University, Montreal, Canada  
 *Sept. 2021 – Expected Aug. 2026*
 
-## 💼 Projects & Experience
+## 💼 Experience
 
 ### Full Stack Software Engineer Intern | Shanghai Jiuqianji Technology Co.,Ltd.
+[ProjectJong](https://riichi.cn)\
 *Jan. 2025-Jul. 2025*\
-**Technologies:** C#, .Net, .Net MAUI, Git
+**Technologies:** C#, .Net, .Net MAUI
 
 - Developed cross-platform mobile applications using .NET MAUI framework
 - Implemented responsive UIs and efficient backend services for enterprise applications
@@ -44,31 +45,40 @@ McGill University, Montreal, Canada
 
 ### Software Development Engineer Intern | Xi'an HolySys Co., Ltd
 *May 2023–Aug. 2023*\
-**Technologies:** Spring Boot, Vue3, MyBatis, MySQL, Git, Gradle
+**Technologies:** Spring Boot, Vue3, MyBatis, MySQL, Gradle
 
 - Served as a core developer for an intelligent monitoring system, responsible for backend API design and implementation
 - Developed RESTful APIs using Spring Boot framework to implement core system functionalities
 - Optimized database access layer using MyBatis to improve query efficiency
 - Participated in frontend development using Vue3, implementing data visualization features
 
-### [Hotel Management System](https://github.com/yutingli1123/HotelManagementSystem) | McGill University ECSE-321 Course Project
+### ECSE-321 Course Project | McGill University
+[Hotel Management System](https://github.com/yutingli1123/HotelManagementSystem)\
 *Sept. 2023–Dec. 2023*\
-**Technologies:** Spring Boot, Vue3, Hibernate, PostgreSQL, Git, Gradle
+**Technologies:** Spring Boot, Vue3, Hibernate, PostgreSQL, Gradle
 
-- Served as a core member of a 6-person development team, developing a full-stack management system for small hotels
-- Responsible for backend API development and persistence layer design, wrote unit tests to ensure code quality
-- Led frontend implementation, developed responsive interface using Vue3, achieved seamless integration with backend services
-- Completed system architecture modeling, requirements analysis, and documentation within 35+ hours/sprint
-- Managed version control using Git, participated in code reviews, and assisted team members in resolving technical issues
+ - Served as a core member of a 6-person development team, developing a full-stack management system for small hotels
+ - Responsible for backend API development and persistence layer design, wrote unit tests to ensure code quality
+ - Led frontend implementation, developed responsive interface using Vue3, achieved seamless integration with backend services
+ - Completed system architecture modeling, requirements analysis, and documentation within 35+ hours/sprint
+ - Managed version control using Git, participated in code reviews, and assisted team members in resolving technical issues
 
-### Cross-Platform Instant Messaging Application | Personal Project
-*Jul. 2023–Aug. 2023*  
-**Technologies:** Spring Boot, Flutter, Socket.IO, MyBatis, PostgreSQL, Gradle
+## 🌟Project
 
-- Independently designed and implemented an end-to-end encrypted instant messaging application
-- Developed cross-platform frontend interface using Flutter, achieving unified experience across iOS and Android
-- Implemented real-time communication functionality based on Socket.IO
-- Designed and implemented end-to-end encryption scheme to ensure communication security
+### [OTPAuth](https://github.com/yutingli1123/OTPAuth)
+**Technologies:** Spring Boot, Gradle
+
+OTPAuth is a Spring Boot based authentication system that implements a secure email OTP (One-Time Password) workflow for user registration and login. Instead of traditional password-based authentication, users receive verification codes via email that they can exchange for access tokens. The system uses JWT (JSON Web Token) for secure authentication and integrates Redis for efficient caching of verification codes and session management.
+
+### PlumaSphere ([Frontend](https://github.com/yutingli1123/PlumaSphere-Frontend)/[Backend](https://github.com/yutingli1123/PlumaSphere-Backend))
+**Technologies:** Spring Boot, Vue3, Hibernate, Redis, PostgreSQL, Gradle
+
+PlumaSphere is a comprehensive modern blog platform built with a decoupled frontend-backend architecture, designed to provide users with an elegant and efficient blogging experience. The project consists of a Vue 3 + TypeScript frontend and a Spring Boot backend, creating a feature-rich, high-performance blogging ecosystem.
+
+### [MAUI StoreKit2](https://github.com/9khub/MAUI.StoreKit2)
+**Technologies:** Swift, .Net MAUI
+
+A .NET MAUI binding library that provides seamless integration with iOS StoreKit2 In-App Purchase functionality.
 
 ## 📫 Contact Me
 
