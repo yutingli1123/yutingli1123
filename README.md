@@ -43,15 +43,6 @@ McGill University, Montreal, Canada
 - Applied C# and XAML skills to create consistent interfaces across Android and iOS platforms
 - Participated in the entire software development lifecycle from concept to deployment
 
-### Software Development Engineer Intern | Xi'an HolySys Co., Ltd
-*May 2023–Aug. 2023*\
-**Technologies:** Spring Boot, Vue3, MyBatis, MySQL, Gradle
-
-- Served as a core developer for an intelligent monitoring system, responsible for backend API design and implementation
-- Developed RESTful APIs using Spring Boot framework to implement core system functionalities
-- Optimized database access layer using MyBatis to improve query efficiency
-- Participated in frontend development using Vue3, implementing data visualization features
-
 ### ECSE-321 Course Project | McGill University
 [Hotel Management System](https://github.com/yutingli1123/HotelManagementSystem)\
 *Sept. 2023–Dec. 2023*\
@@ -62,6 +53,15 @@ McGill University, Montreal, Canada
  - Led frontend implementation, developed responsive interface using Vue3, achieved seamless integration with backend services
  - Completed system architecture modeling, requirements analysis, and documentation within 35+ hours/sprint
  - Managed version control using Git, participated in code reviews, and assisted team members in resolving technical issues
+
+### Software Development Engineer Intern | Xi'an HolySys Co., Ltd
+*May 2023–Aug. 2023*\
+**Technologies:** Spring Boot, Vue3, MyBatis, MySQL, Gradle
+
+- Served as a core developer for an intelligent monitoring system, responsible for backend API design and implementation
+- Developed RESTful APIs using Spring Boot framework to implement core system functionalities
+- Optimized database access layer using MyBatis to improve query efficiency
+- Participated in frontend development using Vue3, implementing data visualization features
 
 ## 🌟Project
 
