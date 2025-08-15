@@ -75,7 +75,7 @@ OTPAuth is a Spring Boot based authentication system that implements a secure em
 
 PlumaSphere is a comprehensive modern blog platform built with a decoupled frontend-backend architecture, designed to provide users with an elegant and efficient blogging experience. The project consists of a Vue 3 + TypeScript frontend and a Spring Boot backend, creating a feature-rich, high-performance blogging ecosystem.
 
-### [MAUI StoreKit2](https://github.com/9khub/MAUI.StoreKit2)
+### [MAUI StoreKit2](https://github.com/9khub/MAUI.StoreKit2)([NuGet](https://www.nuget.org/packages/StoreKit2))
 **Technologies:** Swift, .Net MAUI
 
 A .NET MAUI binding library that provides seamless integration with iOS StoreKit2 In-App Purchase functionality.
